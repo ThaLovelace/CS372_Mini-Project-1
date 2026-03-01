@@ -1,4 +1,3 @@
-# CS372_Mini-Project-1
 # Sleep Disorder Screening System using Machine Learning
 
 ## Project Overview
