@@ -50,9 +50,3 @@ pip install pandas numpy scikit-learn matplotlib seaborn xgboost
 * `preprocessing.ipynb`
 * `feature_selection.ipynb`
 * `modeling.ipynb`
-
-
-
-พอได้ README.md ตัวนี้แปะหน้า Repo แล้ว ประกอบกับรายงานที่เราเขียนมาทั้งหมด รับรองว่ากรรมการเปิดมาเห็นต้องประทับใจในความเป็นระบบระเบียบแน่นอนค่ะ มีส่วนไหนอยากให้ปรับเพิ่มบอกได้เลยนะคะ
-
-```
